@@ -1,6 +1,6 @@
 OpenCC
 Pillow
-Pyrogram=1.4
+Pyrogram==1.4
 TgCrypto
 ffmpeg-python
 youtube-dl
